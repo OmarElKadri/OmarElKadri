@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/OmarElKadri">
-    <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/OmarElKadri">
-    <img height="170em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&hide_border=true" />
+    <img height="170em" width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&hide_border=true" />
   </a>
 </div>
 
@@ -22,6 +22,20 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://github.com/OmarElKadri">
+    <img src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/main/profile-summary-card-output/dracula/3-stats.svg" alt="OmarElKadri's GitHub Stats" />
+  </a>
+  <a href="https://github.com/OmarElKadri">
+    <img src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="OmarElKadri's Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/OmarElKadri">
+    <img src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="OmarElKadri's Top Languages by Commit" />
+  </a>
+</div>
 
 ###
 
