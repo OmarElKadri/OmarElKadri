@@ -4,16 +4,19 @@
 
 <div align="center">
   <a href="https://github.com/OmarElKadri">
-    <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="35%" src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/main/profile-summary-card-output/dracula/3-stats.svg" />
   </a>
   <a href="https://github.com/OmarElKadri">
-    <img height="170em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&hide_border=true" />
+    <img width="52.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/OmarElKadri">
-    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&hide_border=true&from=last-year" />
+    <img width="58.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&hide_border=true&from=last-year" />
+  </a>
+  <a href="https://github.com/OmarElKadri">
+    <img width="35%" src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="OmarElKadri's Top Languages by Repo" />
   </a>
 </div>
 
@@ -22,22 +25,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/OmarElKadri/OmarElKadri/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
 
 ###
 
