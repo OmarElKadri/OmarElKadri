@@ -4,14 +4,16 @@
 
 <div align="center">
   <a href="https://github.com/OmarElKadri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/OmarElKadri">
+    <img height="170em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/OmarElKadri">
-    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&hide_border=false" />
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&hide_border=true&from=last-year" />
   </a>
 </div>
 
