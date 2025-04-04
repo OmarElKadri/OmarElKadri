@@ -3,9 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://github.com/OmarElKadri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarElKadri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElKadri&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/OmarElKadri">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElKadri&radius=16&theme=dracula&area=true&hide_border=false" />
+  </a>
 </div>
 
 ###
