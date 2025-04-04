@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+  <img height="200" src="https://s6.gifyu.com/images/bMkLm.gif" alt="coding gif" />
 </div>
 
 ###
